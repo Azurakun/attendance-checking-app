@@ -20,7 +20,7 @@ The Attendance Checking App is a Laravel-based application designed to manage at
 To clone the repository, run the following command in your terminal:
 
 ```bash
-git clone https://github.com/yourusername/attendance-checking-app.git
+git clone https://github.com/Azurakun/attendance-checking-app.git
 ```
 
 ## How to Run
